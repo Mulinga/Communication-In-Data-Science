@@ -42,3 +42,9 @@ Sometimes, you can respond with `am not sure right now, but let me get back to y
 Here is an illustration
 
 ![Communication Flow Diagram](images/obvious-to-you.jpg)
+
+# Storytelling
+
+When communicating with either team, it is important to ask yourself, `what story am I trying to tell?`
+
+![Communication Flow Diagram](story.jpg)
